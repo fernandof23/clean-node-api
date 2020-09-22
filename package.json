@@ -5,7 +5,8 @@
   "author": "Fernando Santos <fernandorato.0@hotmail.com>",
   "license": "MIT",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:staged": "jest"
   },
   "devDependencies": {
     "eslint": "^7.9.0",
