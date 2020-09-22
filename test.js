@@ -1,4 +1,4 @@
-const teste = 'teste123';
+const teste = 'teste';
 
 function teste() {
   return {};
