@@ -6,7 +6,7 @@
   "license": "MIT",
   "scripts": {
     "test": "jest --watchAll",
-    "test:staged": "jest --passWithNoTest"
+    "test:staged": "jest --passWithNoTests"
   },
   "devDependencies": {
     "eslint": "^7.9.0",
