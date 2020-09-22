@@ -5,7 +5,7 @@
   "author": "Fernando Santos <fernandorato.0@hotmail.com>",
   "license": "MIT",
   "scripts": {
-    "precommit": "lint-staged"
+    "precommit": "yarn lint-staged"
   },
   "husky": {
     "hooks": {
