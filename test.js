@@ -1,4 +1,6 @@
+const teste = 'teste';
+
+const teste2 = 'testes';
 function teste() {
-  const teste = "teste";
-  return { a: 1 };
+  return {};
 }
