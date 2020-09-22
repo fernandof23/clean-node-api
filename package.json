@@ -5,7 +5,7 @@
   "author": "Fernando Santos <fernandorato.0@hotmail.com>",
   "license": "MIT",
   "scripts": {
-    "test": "jest",
+    "test": "jest --watchAll",
     "test:staged": "jest"
   },
   "devDependencies": {
