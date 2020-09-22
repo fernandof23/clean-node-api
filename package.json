@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Fernando Santos <fernandorato.0@hotmail.com>",
   "license": "MIT",
+  "scripts": {
+    "pre-commit": "lint-staged"
+  },
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged",
